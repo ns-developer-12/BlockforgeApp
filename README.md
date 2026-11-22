@@ -48,8 +48,8 @@
 ## دانلود
 |نسخه|لینک|
 |---|---|
-|V1.2 blockforge|[دانلود با لینک مستقیم](https://example.com)|
-V1.0 blockforge | [دانلود با لینک مستقیم](https://example.com) |
+|V1.2 blockforge|[دانلود با لینک مستقیم](https://github.com/ns-developer-12/BlockforgeApp/releases/tag/V1.2)|
+V0.2 blockforge | [دانلود با لینک مستقیم](https://github.com/ns-developer-12/BlockforgeApp/releases/tag/0.2) |
 
 
 ## نصب و نیازمندی‌ها
