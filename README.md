@@ -48,7 +48,8 @@
 # دانلود
 |نسخه|لینک|
 |---|---|
-|V1.0|[دانلود با لینک مستقیم](https://example.com)|
+|V1.0 blockforge|[دانلود با لینک مستقیم](https://example.com)|
+V1.0 blockforge | [دانلود با لینک مستقیم](https://example.com) |
 
 
 ## نصب و نیازمندی‌ها
